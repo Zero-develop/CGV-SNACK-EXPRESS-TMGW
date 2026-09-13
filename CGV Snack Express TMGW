@@ -557,7 +557,6 @@
       window.location.href = `https://wa.me/${ADMIN_WA}?text=${encodeURIComponent(textWA)}`;
     });
 
-
     loadMenu();
   </script>
 </body>
